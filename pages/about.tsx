@@ -1,9 +1,9 @@
 import { Layout } from "../layouts";
 
-export default function HomePage() {
+export default function AboutPage() {
     return (
         <Layout>
-            <h1>Cookie master</h1>
+            <h1>Cookie master - About</h1>
         </Layout>
     )
 }
